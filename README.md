@@ -15,7 +15,7 @@ The objective was to extract meaningful insights from raw data and build robust 
 ##  Technologies Used
 - **Python** (Pandas, NumPy, Scikit-learn)
 - **Visualization**: Matplotlib, Seaborn, Plotly
-- **Machine Learning**: Linear Regression, Random Forests, XGBoost (as needed)
+- **Machine Learning**: Linear Regression, Random Forests, KNN, Logistic regression
 - **Jupyter Notebooks** for experimentation and documentation
 
 ---
@@ -28,14 +28,12 @@ The objective was to extract meaningful insights from raw data and build robust 
   - Feature importance analysis
 - **Predictive Modeling**:  
   - Model training and tuning  
-  - Evaluation using cross-validation, accuracy, F1-score, ROC curves
-- **Visualization**:  
-  - Interactive dashboards and static charts for business stakeholders
+  - Evaluation using cross-validation, accuracy, F1-score.
 
 ---
 
 ## Outcome
-Successfully delivered actionable insights and predictive models that demonstrated **[insert your result, e.g., 85% accuracy in predicting customer churn]** during the internship period.
+Successfully delivered actionable insights and predictive models that demonstrated a improvement in model prediction accuracy to 89% during the internship period.
 
 ---
 
