@@ -12,7 +12,7 @@ The objective was to extract meaningful insights from raw data and build robust 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python** (Pandas, NumPy, Scikit-learn)
 - **Visualization**: Matplotlib, Seaborn, Plotly
 - **Machine Learning**: Linear Regression, Random Forests, XGBoost (as needed)
